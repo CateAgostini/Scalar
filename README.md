@@ -10,3 +10,5 @@ Scalar features include tagging functionalities, analysis and annotation of imag
 From the website introduction (https://scalar.me/anvc/about/), one finds that
 
 “The Alliance for Networking Visual Culture seeks to enrich the intellectual potential of our fields to inform understandings of an expanding array of visual practices as they are reshaped within digital culture, while also creating scholarly contexts for the use of digital media in film, media and visual studies… for publishing interactive and rich media scholarship… Strategic partnerships with several archives (including the Shoah Foundation Institute, Critical Commons, the Hemispheric Institute’s Digital Video Library, and the Internet Archive), libraries, humanities centers, and university presses (including Michigan, MIT, California, OHP, NYU and Duke) provide the testing ground for the investigation of new publishing templates.”
+
+My webinar is online: https://drive.google.com/file/d/1fiK3ZK51t3y04E3qMZigxc8sP3B6m6KC/view?usp=sharing
